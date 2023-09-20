@@ -33,7 +33,7 @@ Feel free to explore the repositories on my GitHub profile to find more examples
 I'm always open to new opportunities and collaborations. If you'd like to get in touch, you can reach me through the following channels:
 
 - 📧 Email: kvymishra@gmail.com
-- 🌐 Website: [your portfolio website or personal website]
+- 🌐 Website: https://kavyamishra.github.io/portfolio/
 - 💼 LinkedIn: https://www.linkedin.com/in/kavya-mishra/
 
 Don't hesitate to reach out if you have any questions, suggestions, or just want to connect. I look forward to hearing from you!
